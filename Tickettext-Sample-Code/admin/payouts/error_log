@@ -1,0 +1,1 @@
+[29-Apr-2014 08:55:53 UTC] PHP Fatal error:  Using $this when not in object context in /home/tickette/public_html/admin/payouts/config.php on line 4
